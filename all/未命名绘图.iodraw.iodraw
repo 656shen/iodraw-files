@@ -101,8 +101,8 @@
         <mxCell id="thxRBWG29mQLh3BzGeA7-51" value="优化&lt;div&gt;准确率＞98%&lt;/div&gt;&lt;div&gt;偏差＜0.5mm&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="515" y="325" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="thxRBWG29mQLh3BzGeA7-54" value="反馈优化" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="643" y="463.5" width="70" height="30" as="geometry" />
+        <mxCell id="thxRBWG29mQLh3BzGeA7-54" value="&lt;span style=&quot;text-wrap: wrap;&quot;&gt;深度学习分割与关键点定位&lt;/span&gt;&lt;br style=&quot;padding: 0px; margin: 0px; text-wrap: wrap;&quot;&gt;&lt;span style=&quot;text-wrap: wrap;&quot;&gt;（3D Swin-Unet + SPU-Net）&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="229" y="305" width="180" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
