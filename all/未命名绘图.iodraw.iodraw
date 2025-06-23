@@ -17,10 +17,10 @@
           <mxGeometry x="548" y="297" width="242" height="67" as="geometry" />
         </mxCell>
         <mxCell id="yzE7EwwqC3CjtJsPvoTY-5" value="Deep Learning Segmentation &amp;amp; Key-Point Localization&#xa;(3D Swin-Unet + SPU-Net)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="130" y="136.5" width="244" height="102" as="geometry" />
+          <mxGeometry x="130" y="150" width="244" height="102" as="geometry" />
         </mxCell>
         <mxCell id="yzE7EwwqC3CjtJsPvoTY-6" value="Biomechanical-&#xa;Constrained&#xa;Path Planning" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="246" y="288" width="170" height="84" as="geometry" />
+          <mxGeometry x="167" y="288.5" width="170" height="84" as="geometry" />
         </mxCell>
         <mxCell id="yzE7EwwqC3CjtJsPvoTY-7" value="AR Visualization&#xa;&amp;amp; Interaction&#xa;(Unity + HoloLens 2)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="307" y="423" width="205" height="84" as="geometry" />
@@ -67,8 +67,8 @@
         <mxCell id="yzE7EwwqC3CjtJsPvoTY-19" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;flowAnimation=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="yzE7EwwqC3CjtJsPvoTY-2" target="yzE7EwwqC3CjtJsPvoTY-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="458" y="112" />
-              <mxPoint x="252" y="112" />
+              <mxPoint x="458" y="120" />
+              <mxPoint x="252" y="120" />
             </Array>
           </mxGeometry>
         </mxCell>
