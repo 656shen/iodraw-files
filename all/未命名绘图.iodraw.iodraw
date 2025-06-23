@@ -56,11 +56,6 @@
             <mxPoint x="5" y="87" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yzE7EwwqC3CjtJsPvoTY-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=1;fontSize=12;" parent="1" source="yzE7EwwqC3CjtJsPvoTY-3" target="yzE7EwwqC3CjtJsPvoTY-4" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="yzE7EwwqC3CjtJsPvoTY-20" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=1;edgeStyle=orthogonalEdgeStyle;fontSize=12;" parent="1" source="yzE7EwwqC3CjtJsPvoTY-5" target="yzE7EwwqC3CjtJsPvoTY-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
