@@ -13,6 +13,9 @@
         <mxCell id="yzE7EwwqC3CjtJsPvoTY-3" value="数据预处理与标注" style="whiteSpace=wrap;strokeWidth=2;rounded=1;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="92" y="150" width="248" height="67" as="geometry" />
         </mxCell>
+        <mxCell id="thxRBWG29mQLh3BzGeA7-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yzE7EwwqC3CjtJsPvoTY-4" target="yzE7EwwqC3CjtJsPvoTY-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="yzE7EwwqC3CjtJsPvoTY-4" value="3D数据处理—输入与标注" style="whiteSpace=wrap;strokeWidth=2;rounded=1;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="95" y="297" width="242" height="67" as="geometry" />
         </mxCell>
@@ -77,7 +80,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="thxRBWG29mQLh3BzGeA7-1" value="研发阶段" style="whiteSpace=wrap;strokeWidth=2;rounded=1;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="211" y="410" width="35" height="240" as="geometry" />
+          <mxGeometry x="60" y="410" width="35" height="240" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
