@@ -16,7 +16,7 @@
         <mxCell id="yzE7EwwqC3CjtJsPvoTY-4" value="3 Data process--in &amp; Annotation" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="548" y="297" width="242" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="yzE7EwwqC3CjtJsPvoTY-5" value="Deep Learning Segmentation &amp;amp; Key-Point Localization&#xa;(3D Swin-Unet + SPU-Net)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="yzE7EwwqC3CjtJsPvoTY-5" value="深度学习分割与关键点定位&#xa;（3D Swin-Unet + SPU-Net）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="130" y="150" width="244" height="102" as="geometry" />
         </mxCell>
         <mxCell id="yzE7EwwqC3CjtJsPvoTY-6" value="Biomechanical-&#xa;Constrained&#xa;Path Planning" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
