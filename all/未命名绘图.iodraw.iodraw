@@ -77,6 +77,11 @@
         <mxCell id="thxRBWG29mQLh3BzGeA7-1" value="研发阶段" style="whiteSpace=wrap;strokeWidth=2;rounded=1;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="130" y="227" width="35" height="240" as="geometry" />
         </mxCell>
+        <mxCell id="thxRBWG29mQLh3BzGeA7-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="thxRBWG29mQLh3BzGeA7-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="790" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="thxRBWG29mQLh3BzGeA7-10" value="多模态传感器集成与实时数据反馈(IMU+视觉传感器)" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="574" y="450" width="196" height="80" as="geometry" />
         </mxCell>
