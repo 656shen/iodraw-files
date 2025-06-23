@@ -85,9 +85,6 @@
         <mxCell id="thxRBWG29mQLh3BzGeA7-45" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="429.5" y="670" width="39" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="thxRBWG29mQLh3BzGeA7-46" value="胸腰CT椎数据采集（500例）" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="331" y="251" width="236" height="49" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
