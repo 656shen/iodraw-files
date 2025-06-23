@@ -10,7 +10,7 @@
         <mxCell id="yzE7EwwqC3CjtJsPvoTY-2" value="数据采集（CT）" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="340" y="20" width="236" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="yzE7EwwqC3CjtJsPvoTY-3" value="Data Preprocessing &amp; Annotation" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="yzE7EwwqC3CjtJsPvoTY-3" value="数据预处理与标注" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="545" y="154" width="248" height="67" as="geometry" />
         </mxCell>
         <mxCell id="yzE7EwwqC3CjtJsPvoTY-4" value="3 Data process--in &amp; Annotation" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
