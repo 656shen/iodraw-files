@@ -1,40 +1,40 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="gqFIIik5Ml62eNu8rKbz">
-    <mxGraphModel dx="1434" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="836" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="yzE7EwwqC3CjtJsPvoTY-1" value="" style="whiteSpace=wrap;strokeWidth=2;rounded=1;fontSize=18;dashed=1;" parent="1" vertex="1">
+        <mxCell id="yzE7EwwqC3CjtJsPvoTY-1" value="" style="whiteSpace=wrap;strokeWidth=2;rounded=1;fontSize=16;dashed=1;" parent="1" vertex="1">
           <mxGeometry x="189" y="700" width="514" height="420" as="geometry" />
         </mxCell>
-        <mxCell id="yzE7EwwqC3CjtJsPvoTY-2" value="胸腰椎数据采集（CT）" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;fontSize=18;" parent="1" vertex="1">
+        <mxCell id="yzE7EwwqC3CjtJsPvoTY-2" value="胸腰椎数据采集（CT）" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="340" y="20" width="236" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="yzE7EwwqC3CjtJsPvoTY-3" value="数据预处理与标注" style="whiteSpace=wrap;strokeWidth=2;rounded=1;fontSize=18;" parent="1" vertex="1">
+        <mxCell id="yzE7EwwqC3CjtJsPvoTY-3" value="数据预处理与标注" style="whiteSpace=wrap;strokeWidth=2;rounded=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="545" y="154" width="248" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="yzE7EwwqC3CjtJsPvoTY-4" value="3D数据处理—输入与标注" style="whiteSpace=wrap;strokeWidth=2;rounded=1;fontSize=18;" parent="1" vertex="1">
+        <mxCell id="yzE7EwwqC3CjtJsPvoTY-4" value="3D数据处理—输入与标注" style="whiteSpace=wrap;strokeWidth=2;rounded=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="548" y="297" width="242" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="yzE7EwwqC3CjtJsPvoTY-5" value="深度学习分割与关键点定位&#xa;（3D Swin-Unet + SPU-Net）" style="whiteSpace=wrap;strokeWidth=2;rounded=1;fontSize=18;" parent="1" vertex="1">
+        <mxCell id="yzE7EwwqC3CjtJsPvoTY-5" value="深度学习分割与关键点定位&#xa;（3D Swin-Unet + SPU-Net）" style="whiteSpace=wrap;strokeWidth=2;rounded=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="130" y="150" width="244" height="102" as="geometry" />
         </mxCell>
-        <mxCell id="yzE7EwwqC3CjtJsPvoTY-6" value="生物力学约束路径规划" style="whiteSpace=wrap;strokeWidth=2;rounded=1;fontSize=18;" parent="1" vertex="1">
+        <mxCell id="yzE7EwwqC3CjtJsPvoTY-6" value="生物力学约束路径规划" style="whiteSpace=wrap;strokeWidth=2;rounded=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="167" y="288.5" width="170" height="84" as="geometry" />
         </mxCell>
-        <mxCell id="yzE7EwwqC3CjtJsPvoTY-7" value="AR 可视化技术互动&#xa;（Unity +HoloLens 2）" style="whiteSpace=wrap;strokeWidth=2;rounded=1;fontSize=18;" parent="1" vertex="1">
+        <mxCell id="yzE7EwwqC3CjtJsPvoTY-7" value="AR 可视化技术互动&#xa;（Unity +HoloLens 2）" style="whiteSpace=wrap;strokeWidth=2;rounded=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="350" y="410" width="205" height="84" as="geometry" />
         </mxCell>
-        <mxCell id="yzE7EwwqC3CjtJsPvoTY-8" value="基于人工智能的&#xa;技能评估模型训练" style="whiteSpace=wrap;strokeWidth=2;rounded=1;fontSize=18;" parent="1" vertex="1">
+        <mxCell id="yzE7EwwqC3CjtJsPvoTY-8" value="基于人工智能的&#xa;技能评估模型训练" style="whiteSpace=wrap;strokeWidth=2;rounded=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="362" y="733.5" width="176" height="84" as="geometry" />
         </mxCell>
-        <mxCell id="yzE7EwwqC3CjtJsPvoTY-11" value="多中心随机对照试验&#xa;&#xa;临床验证" style="whiteSpace=wrap;strokeWidth=2;rounded=1;fontSize=18;" parent="1" vertex="1">
+        <mxCell id="yzE7EwwqC3CjtJsPvoTY-11" value="多中心随机对照试验&#xa;&#xa;临床验证" style="whiteSpace=wrap;strokeWidth=2;rounded=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="355" y="1011" width="190" height="84" as="geometry" />
         </mxCell>
-        <mxCell id="yzE7EwwqC3CjtJsPvoTY-13" value="临床验证阶段" style="whiteSpace=wrap;strokeWidth=2;rounded=1;fontSize=18;" parent="1" vertex="1">
+        <mxCell id="yzE7EwwqC3CjtJsPvoTY-13" value="临床验证阶段" style="whiteSpace=wrap;strokeWidth=2;rounded=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="124" y="783" width="35" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="yzE7EwwqC3CjtJsPvoTY-16" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=1;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;fontSize=18;" parent="1" source="yzE7EwwqC3CjtJsPvoTY-2" target="yzE7EwwqC3CjtJsPvoTY-3" edge="1">
+        <mxCell id="yzE7EwwqC3CjtJsPvoTY-16" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=1;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;fontSize=16;" parent="1" source="yzE7EwwqC3CjtJsPvoTY-2" target="yzE7EwwqC3CjtJsPvoTY-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="458" y="120" />
@@ -42,26 +42,26 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="yzE7EwwqC3CjtJsPvoTY-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=1;fontSize=18;" parent="1" source="yzE7EwwqC3CjtJsPvoTY-3" target="yzE7EwwqC3CjtJsPvoTY-4" edge="1">
+        <mxCell id="yzE7EwwqC3CjtJsPvoTY-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=1;fontSize=16;" parent="1" source="yzE7EwwqC3CjtJsPvoTY-3" target="yzE7EwwqC3CjtJsPvoTY-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yzE7EwwqC3CjtJsPvoTY-20" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=1;edgeStyle=orthogonalEdgeStyle;fontSize=18;" parent="1" source="yzE7EwwqC3CjtJsPvoTY-5" target="yzE7EwwqC3CjtJsPvoTY-6" edge="1">
+        <mxCell id="yzE7EwwqC3CjtJsPvoTY-20" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=1;edgeStyle=orthogonalEdgeStyle;fontSize=16;" parent="1" source="yzE7EwwqC3CjtJsPvoTY-5" target="yzE7EwwqC3CjtJsPvoTY-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yzE7EwwqC3CjtJsPvoTY-21" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.26;entryY=0;rounded=1;edgeStyle=orthogonalEdgeStyle;fontSize=18;" parent="1" source="yzE7EwwqC3CjtJsPvoTY-6" target="yzE7EwwqC3CjtJsPvoTY-7" edge="1">
+        <mxCell id="yzE7EwwqC3CjtJsPvoTY-21" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.26;entryY=0;rounded=1;edgeStyle=orthogonalEdgeStyle;fontSize=16;" parent="1" source="yzE7EwwqC3CjtJsPvoTY-6" target="yzE7EwwqC3CjtJsPvoTY-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yzE7EwwqC3CjtJsPvoTY-22" value="" style="startArrow=none;endArrow=block;exitX=0.55;exitY=1;entryX=0.75;entryY=0;rounded=1;edgeStyle=orthogonalEdgeStyle;fontSize=18;" parent="1" source="yzE7EwwqC3CjtJsPvoTY-7" target="yzE7EwwqC3CjtJsPvoTY-8" edge="1">
+        <mxCell id="yzE7EwwqC3CjtJsPvoTY-22" value="" style="startArrow=none;endArrow=block;exitX=0.55;exitY=1;entryX=0.75;entryY=0;rounded=1;edgeStyle=orthogonalEdgeStyle;fontSize=16;" parent="1" source="yzE7EwwqC3CjtJsPvoTY-7" target="yzE7EwwqC3CjtJsPvoTY-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yzE7EwwqC3CjtJsPvoTY-24" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=1;entryDx=0;entryDy=0;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;fontSize=18;" parent="1" source="yzE7EwwqC3CjtJsPvoTY-8" target="yzE7EwwqC3CjtJsPvoTY-11" edge="1">
+        <mxCell id="yzE7EwwqC3CjtJsPvoTY-24" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=1;entryDx=0;entryDy=0;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;fontSize=16;" parent="1" source="yzE7EwwqC3CjtJsPvoTY-8" target="yzE7EwwqC3CjtJsPvoTY-11" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="415.03999999999996" y="877" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yzE7EwwqC3CjtJsPvoTY-27" value="" style="startArrow=none;endArrow=block;exitX=0;exitY=0.18;entryX=0;entryY=0.81;rounded=1;edgeStyle=orthogonalEdgeStyle;fontSize=18;" parent="1" source="yzE7EwwqC3CjtJsPvoTY-11" target="yzE7EwwqC3CjtJsPvoTY-8" edge="1">
+        <mxCell id="yzE7EwwqC3CjtJsPvoTY-27" value="" style="startArrow=none;endArrow=block;exitX=0;exitY=0.18;entryX=0;entryY=0.81;rounded=1;edgeStyle=orthogonalEdgeStyle;fontSize=16;" parent="1" source="yzE7EwwqC3CjtJsPvoTY-11" target="yzE7EwwqC3CjtJsPvoTY-8" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="219" y="1026" />
@@ -69,7 +69,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="thxRBWG29mQLh3BzGeA7-1" value="研发阶段" style="whiteSpace=wrap;strokeWidth=2;rounded=1;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="thxRBWG29mQLh3BzGeA7-1" value="研发阶段" style="whiteSpace=wrap;strokeWidth=2;rounded=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="90" y="170" width="35" height="240" as="geometry" />
         </mxCell>
       </root>
