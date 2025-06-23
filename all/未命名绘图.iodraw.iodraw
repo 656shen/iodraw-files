@@ -28,7 +28,7 @@
         <mxCell id="yzE7EwwqC3CjtJsPvoTY-8" value="基于人工智能的&#xa;技能评估模型训练" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="259" y="591" width="176" height="84" as="geometry" />
         </mxCell>
-        <mxCell id="yzE7EwwqC3CjtJsPvoTY-11" value="10&#xa;Multicenter RCT&#xa;Clinical Validation" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="yzE7EwwqC3CjtJsPvoTY-11" value="多中心随机对照试验&#xa;&#xa;临床验证" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="240" y="868" width="190" height="84" as="geometry" />
         </mxCell>
         <mxCell id="yzE7EwwqC3CjtJsPvoTY-12" value="Development Phase" style="whiteSpace=wrap;strokeWidth=2;" parent="1" vertex="1">
