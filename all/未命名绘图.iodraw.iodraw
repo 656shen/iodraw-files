@@ -19,7 +19,7 @@
         <mxCell id="yzE7EwwqC3CjtJsPvoTY-5" value="深度学习分割与关键点定位&#xa;（3D Swin-Unet + SPU-Net）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="130" y="150" width="244" height="102" as="geometry" />
         </mxCell>
-        <mxCell id="yzE7EwwqC3CjtJsPvoTY-6" value="Biomechanical-&#xa;Constrained&#xa;Path Planning" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="yzE7EwwqC3CjtJsPvoTY-6" value="生物力学约束路径规划" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="167" y="288.5" width="170" height="84" as="geometry" />
         </mxCell>
         <mxCell id="yzE7EwwqC3CjtJsPvoTY-7" value="AR Visualization&#xa;&amp;amp; Interaction&#xa;(Unity + HoloLens 2)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
