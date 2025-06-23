@@ -7,7 +7,7 @@
         <mxCell id="yzE7EwwqC3CjtJsPvoTY-1" value="Feedback Loop" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="20" y="557" width="514" height="420" as="geometry" />
         </mxCell>
-        <mxCell id="yzE7EwwqC3CjtJsPvoTY-2" value="Imaging Data Acquisition (CT/MRI)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="yzE7EwwqC3CjtJsPvoTY-2" value="Imaging Data Acquisition (CT/MRI)" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="340" y="20" width="236" height="67" as="geometry" />
         </mxCell>
         <mxCell id="yzE7EwwqC3CjtJsPvoTY-3" value="Data Preprocessing &amp; Annotation" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
@@ -49,7 +49,7 @@
         <mxCell id="yzE7EwwqC3CjtJsPvoTY-15" value="Clinical Validation Phase" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="232" y="1126" width="205" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="yzE7EwwqC3CjtJsPvoTY-16" value="" style="startArrow=none;endArrow=block;exitX=0.77;exitY=0.99;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="yzE7EwwqC3CjtJsPvoTY-2" target="yzE7EwwqC3CjtJsPvoTY-3">
+        <mxCell id="yzE7EwwqC3CjtJsPvoTY-16" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;exitDx=0;exitDy=0;" edge="1" parent="1" source="yzE7EwwqC3CjtJsPvoTY-2" target="yzE7EwwqC3CjtJsPvoTY-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yzE7EwwqC3CjtJsPvoTY-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="yzE7EwwqC3CjtJsPvoTY-3" target="yzE7EwwqC3CjtJsPvoTY-4">
@@ -65,7 +65,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yzE7EwwqC3CjtJsPvoTY-19" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;flowAnimation=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="yzE7EwwqC3CjtJsPvoTY-2" target="yzE7EwwqC3CjtJsPvoTY-5">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="458" y="112" />
+              <mxPoint x="252" y="112" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="yzE7EwwqC3CjtJsPvoTY-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="yzE7EwwqC3CjtJsPvoTY-5" target="yzE7EwwqC3CjtJsPvoTY-6">
           <mxGeometry relative="1" as="geometry">
