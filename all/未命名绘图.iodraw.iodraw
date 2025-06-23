@@ -22,7 +22,7 @@
         <mxCell id="yzE7EwwqC3CjtJsPvoTY-6" value="生物力学约束路径规划" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="167" y="288.5" width="170" height="84" as="geometry" />
         </mxCell>
-        <mxCell id="yzE7EwwqC3CjtJsPvoTY-7" value="AR Visualization&#xa;&amp;amp; Interaction&#xa;(Unity + HoloLens 2)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="yzE7EwwqC3CjtJsPvoTY-7" value="AR 可视化技术互动&#xa;（Unity +HoloLens 2）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="307" y="423" width="205" height="84" as="geometry" />
         </mxCell>
         <mxCell id="yzE7EwwqC3CjtJsPvoTY-8" value="AI-based&#xa;Skill Assessment&#xa;Model Training" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
