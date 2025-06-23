@@ -47,19 +47,6 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yzE7EwwqC3CjtJsPvoTY-18" value="" style="startArrow=none;endArrow=block;entryX=1;entryY=0.07;rounded=1;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=18;" parent="1" source="yzE7EwwqC3CjtJsPvoTY-4" target="yzE7EwwqC3CjtJsPvoTY-7" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="670" y="370" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="yzE7EwwqC3CjtJsPvoTY-19" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=1;exitDx=0;exitDy=0;flowAnimation=0;edgeStyle=orthogonalEdgeStyle;fontSize=18;" parent="1" source="yzE7EwwqC3CjtJsPvoTY-2" target="yzE7EwwqC3CjtJsPvoTY-5" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="458" y="120" />
-              <mxPoint x="252" y="120" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="yzE7EwwqC3CjtJsPvoTY-20" value="" style="startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=1;edgeStyle=orthogonalEdgeStyle;fontSize=18;" parent="1" source="yzE7EwwqC3CjtJsPvoTY-5" target="yzE7EwwqC3CjtJsPvoTY-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
