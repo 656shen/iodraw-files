@@ -13,24 +13,11 @@
         <mxCell id="yzE7EwwqC3CjtJsPvoTY-3" value="数据预处理与标注" style="whiteSpace=wrap;strokeWidth=2;rounded=1;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="92" y="150" width="248" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="thxRBWG29mQLh3BzGeA7-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yzE7EwwqC3CjtJsPvoTY-4" target="yzE7EwwqC3CjtJsPvoTY-5">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="216" y="384" />
-              <mxPoint x="440" y="384" />
-              <mxPoint x="440" y="150" />
-              <mxPoint x="652" y="150" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="yzE7EwwqC3CjtJsPvoTY-4" value="3D数据处理—输入与标注" style="whiteSpace=wrap;strokeWidth=2;rounded=1;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="95" y="297" width="242" height="67" as="geometry" />
-        </mxCell>
         <mxCell id="yzE7EwwqC3CjtJsPvoTY-5" value="深度学习分割与关键点定位&#xa;（3D Swin-Unet + SPU-Net）" style="whiteSpace=wrap;strokeWidth=2;rounded=1;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="530" y="160" width="244" height="63.5" as="geometry" />
+          <mxGeometry x="323" y="230" width="244" height="63.5" as="geometry" />
         </mxCell>
         <mxCell id="yzE7EwwqC3CjtJsPvoTY-6" value="生物力学约束路径规划" style="whiteSpace=wrap;strokeWidth=2;rounded=1;fontSize=12;" parent="1" vertex="1">
-          <mxGeometry x="567" y="280" width="170" height="84" as="geometry" />
+          <mxGeometry x="360" y="350" width="170" height="84" as="geometry" />
         </mxCell>
         <mxCell id="thxRBWG29mQLh3BzGeA7-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yzE7EwwqC3CjtJsPvoTY-7" target="thxRBWG29mQLh3BzGeA7-5">
           <mxGeometry relative="1" as="geometry" />
