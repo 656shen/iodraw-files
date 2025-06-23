@@ -68,7 +68,7 @@
             <mxPoint x="415.03999999999996" y="887" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="thxRBWG29mQLh3BzGeA7-1" value="研发阶段" style="whiteSpace=wrap;strokeWidth=2;rounded=1;fontSize=22;" vertex="1" parent="1">
+        <mxCell id="thxRBWG29mQLh3BzGeA7-1" value="研发阶段" style="whiteSpace=wrap;strokeWidth=2;rounded=1;fontSize=22;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="203" y="300" width="35" height="240" as="geometry" />
         </mxCell>
         <mxCell id="thxRBWG29mQLh3BzGeA7-16" value="优化&lt;div&gt;安全性100%&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#ec0909;" vertex="1" parent="1">
