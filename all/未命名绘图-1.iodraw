@@ -46,7 +46,7 @@
           <mxGeometry x="320" y="310" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YN9peWn_f_VA_bQ2Y1K3-0" value="患者初始评估" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1544" y="490" width="156" height="49" as="geometry" />
+          <mxGeometry x="200" y="760" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="YN9peWn_f_VA_bQ2Y1K3-1" value="系统初始化" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1552" y="589" width="140" height="49" as="geometry" />
