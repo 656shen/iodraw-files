@@ -231,21 +231,15 @@
         <mxCell id="olIbG7vLUt-m-fv-KNOb-11" value="形成“理论—实践—应用”的闭环" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1059" y="3261" width="244" height="67" as="geometry" />
         </mxCell>
-        <mxCell id="olIbG7vLUt-m-fv-KNOb-12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="olIbG7vLUt-m-fv-KNOb-0">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-            <mxPoint x="1335.5" y="2527.0000000000005" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="olIbG7vLUt-m-fv-KNOb-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.72;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="olIbG7vLUt-m-fv-KNOb-2">
+        <mxCell id="olIbG7vLUt-m-fv-KNOb-13" value="" style="curved=1;startArrow=none;endArrow=block;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="olIbG7vLUt-m-fv-KNOb-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1181" y="2601" />
             </Array>
-            <mxPoint x="1301" y="2562.28" as="sourcePoint" />
+            <mxPoint x="1340" y="2480" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="olIbG7vLUt-m-fv-KNOb-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.72;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="olIbG7vLUt-m-fv-KNOb-3">
+        <mxCell id="olIbG7vLUt-m-fv-KNOb-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="olIbG7vLUt-m-fv-KNOb-0" target="olIbG7vLUt-m-fv-KNOb-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1490" y="2601" />
